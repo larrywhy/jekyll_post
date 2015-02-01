@@ -16,6 +16,15 @@ It can generate the below code template for default configuration.
 # Usage
 
         $jklpost <filename> <layout> [options]
+
+# Example
+
+Default title is your filename.
+
+        $jklpost hello mylayout
+
+It will generate an markdown file *.md* in your current directory.
+
 # License
 
 MIT
