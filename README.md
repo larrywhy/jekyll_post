@@ -24,6 +24,8 @@ Default title is your filename.
         $jklpost hello mylayout
 
 It will generate an markdown file *.md* in your current directory.
+After you use the 	jklpost command, it generate the below file.
+*2015-02-01-hello-223726.md* in format: *year-month-date-filename-time.md* .
 
 # License
 
