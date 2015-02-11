@@ -19,7 +19,7 @@ It can generate the below code template for default configuration.
 
 # Example
 
-Default title is your filename.
+Default title is your filename, you can modify it after creating the post file.
 
         $jklpost hello mylayout
 
